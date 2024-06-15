@@ -7,7 +7,8 @@ This project creates an interactive dashboard of microbial data from various ind
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare. Through an intuitive interface featuring dropdown menus and responsive charts, users can navigate through the dataset to uncover insights into the microbial communities within each sample. The visualization displays demographic metadata, enriching the context of each dataset explored. 
 
 ## Deployment
-Interactive dashboard: [Belly Button Biodiversity Dashboard](https://jeremytallant.github.io/belly-button-challenge/).
+Interactive dashboard: [Belly Button Biodiversity Dashboard](https://erikasantosrocha.github.io/belly-button-challenge/).
+
 
   ![bar Chart](images/dashboard_image.png)
 
